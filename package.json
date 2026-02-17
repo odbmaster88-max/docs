@@ -33,7 +33,7 @@
     "@mdx-js/react": "^3.1.0",
     "@saucelabs/theme-github-codeblock": "^0.3.0",
     "@types/react": "^18.2.0",
-    "@uniswap/analytics": "1.1.0",
+    "@uniswap/analytics": "1.7.2",
     "@uniswap/analytics-events": "2.0.0",
     "algoliasearch": "^4.9.1",
     "caniuse-lite": "^1.0.30001519",
