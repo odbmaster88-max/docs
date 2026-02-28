@@ -36,7 +36,7 @@
     "@uniswap/analytics": "1.7.2",
     "@uniswap/analytics-events": "2.0.0",
     "algoliasearch": "^4.9.1",
-    "caniuse-lite": "^1.0.30001519",
+    "caniuse-lite": "^1.0.30001766",
     "classnames": "^2.5.1",
     "clsx": "^1.1.1",
     "docusaurus-plugin-llms": "^0.2.0",
